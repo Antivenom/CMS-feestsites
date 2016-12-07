@@ -1,0 +1,2 @@
+
+body{background-image:url('../images/bg.jpg');background-size:cover;-ms-behavior:url('css/ie/backgroundsize.min.htc');}section,article{}section>.last-child,article>.last-child{margin-bottom:0;}section.last-child,article.last-child{margin-bottom:0;}#nav{}#nav a{}#nav a span{display:none;}#nav a:before{font-size:1.75em;}
